@@ -42,10 +42,5 @@ public class ControllerManager : MonoBehaviour
         buttonA.Disable();
         buttonB.Disable();
     }
-
-    //public void ButtonA( InputAction.CallbackContext context )
-    //{
-    //    print( "We Press A" );
-    //}
 }
 
